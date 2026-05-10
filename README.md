@@ -85,10 +85,6 @@ This project uses Tailwind CSS for styling. The configuration includes:
 - Fluid typography for responsive text
 - Animation utilities
 
-## 📱 Responsive Design
-
-The app is built with responsive design using Tailwind CSS breakpoints.
-
 
 ## 📦 Deployment
 
@@ -98,7 +94,6 @@ Build the application for production:
 npm run build
 ```
 
-## 🙏 Acknowledgments
 
 - Built with [Rocket.new](https://rocket.new)
 - Powered by React and Vite
